@@ -1,0 +1,27 @@
+03/12/2021,14:51:03,003_Ti64_TD_Deform_Temp_915C_StrainRate_,,60101,Log File Created
+03/12/2021,14:51:03,003_Ti64_TD_Deform_Temp_915C_StrainRate_,,60104,Software Version,2.0.19114.01
+03/12/2021,14:51:03,003_Ti64_TD_Deform_Temp_915C_StrainRate_,,60105,Console Version,10.1.19107.1
+03/12/2021,14:51:03,003_Ti64_TD_Deform_Temp_915C_StrainRate_,,60106,Controller Version,22.22.3625
+03/12/2021,14:51:03,003_Ti64_TD_Deform_Temp_915C_StrainRate_,,60107,User Name,Manchester Uni
+03/12/2021,14:51:03,003_Ti64_TD_Deform_Temp_915C_StrainRate_,,60108,Computer Name,DYNSMTL7178
+03/12/2021,14:51:03,003_Ti64_TD_Deform_Temp_915C_StrainRate_,,60109,System Name,
+03/12/2021,14:51:03,003_Ti64_TD_Deform_Temp_915C_StrainRate_,,60110,Frame Serial Number (System ID),DYNSMTL7178
+03/12/2021,15:01:23,003_Ti64_TD_Deform_Temp_915C_StrainRate_,Test1,60110,Test Started
+03/12/2021,15:01:23,003_Ti64_TD_Deform_Temp_915C_StrainRate_,Test1,60300,Tuning Settings (Load Frame) - Adaptive = Off
+03/12/2021,15:01:23,003_Ti64_TD_Deform_Temp_915C_StrainRate_,Test1,60300,Tuning Settings (Load Frame:Linear Position Encoder) - Proportional(dB) = 30.0 : Integral(/s) = 1.0 : Derivative(ms) = 0.0 : Lag(ms) = 0.0
+03/12/2021,15:01:23,003_Ti64_TD_Deform_Temp_915C_StrainRate_,Test1,60300,Tuning Settings (Load Frame:Load) - Proportional(dB) = 25.5 : Integral(/s) = 0.5 : Derivative(ms) = 0.0 : Lag(ms) = 0.5
+03/12/2021,15:01:23,003_Ti64_TD_Deform_Temp_915C_StrainRate_,Test1,60300,Tuning Settings (Load Frame:Strain 1) - Proportional(dB) = 20.0 : Integral(/s) = 1.0 : Derivative(ms) = 0.0 : Lag(ms) = 0.0
+03/12/2021,15:01:23,003_Ti64_TD_Deform_Temp_915C_StrainRate_,Test1,60300,Tuning Settings (Temperature) - Adaptive = Off
+03/12/2021,15:01:23,003_Ti64_TD_Deform_Temp_915C_StrainRate_,Test1,60300,Tuning Settings (Temperature:Current) - Proportional(dB) = 10.0 : Integral(/s) = 15.0 : Derivative(ms) = 0.0 : Lag(ms) = 20.0
+03/12/2021,15:01:23,003_Ti64_TD_Deform_Temp_915C_StrainRate_,Test1,60300,Tuning Settings (Temperature:Temperature) - Proportional(dB) = 2.0 : Integral(/s) = 0.2 : Derivative(ms) = 0.0 : Lag(ms) = 50.0
+03/12/2021,15:01:23,003_Ti64_TD_Deform_Temp_915C_StrainRate_,Test1,60300,Tuning Settings (Temperature:Temperature-K) - Proportional(dB) = 17.0 : Integral(/s) = 0.5 : Derivative(ms) = 0.0 : Lag(ms) = 0.8
+03/12/2021,15:01:23,003_Ti64_TD_Deform_Temp_915C_StrainRate_,Test1,60300,Tuning Settings (Temperature:Voltage) - Proportional(dB) = -20.0 : Integral(/s) = 1.0 : Derivative(ms) = 0.0 : Lag(ms) = 0.0
+03/12/2021,15:05:25,003_Ti64_TD_Deform_Temp_915C_StrainRate_,Test1,60200,Test Status,Test Ended Normally
+03/12/2021,15:05:25,003_Ti64_TD_Deform_Temp_915C_StrainRate_,Test1,60120,Total Time,241.919
+03/12/2021,15:05:25,003_Ti64_TD_Deform_Temp_915C_StrainRate_,Test1,60121,Total Cycle Count(Load Frame Waveform),0
+03/12/2021,15:05:25,003_Ti64_TD_Deform_Temp_915C_StrainRate_,Test1,60121,Total Cycle Count(Temperature Waveform),0
+03/12/2021,15:05:25,003_Ti64_TD_Deform_Temp_915C_StrainRate_,Test1,62000,SHA-256,Test1.steps.tracking.csv,E9929E8B874121BAE57D47FD6EE10364F92E1FF522621F7FA735688511F053D4
+03/12/2021,15:05:25,003_Ti64_TD_Deform_Temp_915C_StrainRate_,Test1,62000,SHA-256,Test1.steps.trends.csv,8EC29A42F233C4D1891BB736822F07548F627D9491C041B224B67CF6734416F0
+03/12/2021,15:05:25,003_Ti64_TD_Deform_Temp_915C_StrainRate_,Test1,62000,SHA-256,Test1.Stop.csv,E9929E8B874121BAE57D47FD6EE10364F92E1FF522621F7FA735688511F053D4
+03/12/2021,15:05:25,003_Ti64_TD_Deform_Temp_915C_StrainRate_,Test1,60112,Test Finished
+03/12/2021,15:09:42,003_Ti64_TD_Deform_Temp_915C_StrainRate_,Test2,60103,Closed

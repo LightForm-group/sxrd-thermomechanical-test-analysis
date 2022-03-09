@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<InstronFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" FileSections="1" Version="1.0.0">
+  <Section index="0">
+    <Node name="AllTests">
+      <Item name="Tests">
+        <Value xsi:type="ArrayOfString">
+          <string>Test1\Test1.im_gpf</string>
+        </Value>
+      </Item>
+    </Node>
+    <Node name="InterruptedTests">
+      <Item name="Tests">
+        <Value xsi:type="ArrayOfString" />
+      </Item>
+    </Node>
+  </Section>
+</InstronFile>

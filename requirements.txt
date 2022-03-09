@@ -1,0 +1,7 @@
+notebook
+numpy
+matplotlib
+pathlib
+tqdm
+jupyter
+pyyaml

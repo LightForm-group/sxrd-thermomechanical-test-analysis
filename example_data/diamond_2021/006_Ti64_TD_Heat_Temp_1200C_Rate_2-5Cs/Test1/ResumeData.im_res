@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<InstronFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" FileSections="3" Version="1.0.0">
+  <Section index="0">
+    <Node name="SystemMap">
+      <Item name="VirtualHosts">
+        <Value xsi:type="ArrayOfString">
+          <string>PC</string>
+          <string>Load Frame</string>
+          <string>Temperature</string>
+          <string>Temperature Controller 1</string>
+        </Value>
+      </Item>
+      <Item name="PhysicalHosts">
+        <Value xsi:type="ArrayOfString">
+          <string>PC</string>
+          <string>Load Frame</string>
+          <string>Temperature</string>
+          <string>Temperature Controller 1</string>
+        </Value>
+      </Item>
+    </Node>
+  </Section>
+  <Section index="1">
+    <Node name="TestData">
+      <Item name="Time">
+        <Value xsi:type="xsd:double">701.183</Value>
+      </Item>
+      <Item name="TransferCount">
+        <Value xsi:type="xsd:long">4</Value>
+      </Item>
+      <Item name="Vectors">
+        <Value xsi:type="xsd:long">701184</Value>
+      </Item>
+      <Item name="ColumnNames">
+        <Value xsi:type="ArrayOfString">
+          <string>Vector</string>
+          <string>Total Time</string>
+          <string>Step</string>
+          <string>Load Frame:Transfer</string>
+          <string>Load Frame:WaveformStatus</string>
+          <string>Total Cycle Count(Load Frame Waveform)</string>
+          <string>Position(Load Frame:Linear Position Encoder)</string>
+          <string>Force(Load Frame:Load)</string>
+          <string>Extension(Load Frame:Strain 1)</string>
+          <string>Drive(Load Frame Waveform)</string>
+          <string>Command(Load Frame Waveform)</string>
+          <string>Error(Load Frame Waveform)</string>
+          <string>Temperature:Transfer</string>
+          <string>Temperature:WaveformStatus</string>
+          <string>Total Cycle Count(Temperature Waveform)</string>
+          <string>User-Defined(Temperature:Current)</string>
+          <string>User-Defined(Temperature:Temperature)</string>
+          <string>User-Defined(Temperature:Voltage)</string>
+          <string>Command(Temperature Waveform)</string>
+          <string>Drive(Temperature Waveform)</string>
+          <string>Error(Temperature Waveform)</string>
+          <string>Temperature(Temperature Controller 1:Temperature)</string>
+          <string>Command(Temperature Controller 1 Waveform)</string>
+          <string>Drive(Temperature Controller 1 Waveform)</string>
+        </Value>
+      </Item>
+      <Item name="ColumnValues">
+        <Value xsi:type="ArrayOfDouble">
+          <double>701183</double>
+          <double>701.183</double>
+          <double>4</double>
+          <double>4</double>
+          <double>-1</double>
+          <double>0</double>
+          <double>0.0016843346878886224</double>
+          <double>2799.2421714589</double>
+          <double>0.00396034307545051</double>
+          <double>-0.09999999962747097</double>
+          <double>0.0014538392424583435</double>
+          <double>-0.032233376055955887</double>
+          <double>4</double>
+          <double>-1</double>
+          <double>0</double>
+          <double>0.0966828316450119</double>
+          <double>691.12787581980228</double>
+          <double>-0.0724078775383532</double>
+          <double>0.15370184369385243</double>
+          <double>0</double>
+          <double>0.15344234649091959</double>
+          <double>670.36168999998722</double>
+          <double>1</double>
+          <double>0</double>
+        </Value>
+      </Item>
+    </Node>
+  </Section>
+  <Section index="2">
+    <Node name="TestSystem">
+      <Item name="TestStopReason">
+        <Value xsi:type="xsd:int">5</Value>
+      </Item>
+    </Node>
+    <Node name="Sequencer">
+      <Item name="CompletedStepCount">
+        <Value xsi:type="xsd:int">3</Value>
+      </Item>
+      <Item name="Step0">
+        <Value xsi:type="Node" name="Step0">
+          <Item name="StepAcquisitionFilter - PC:Acquisition Filter">
+            <Value xsi:type="Node" name="StepAcquisitionFilter - PC:Acquisition Filter">
+              <Item name="ChunkerActive">
+                <Value xsi:type="xsd:boolean">false</Value>
+              </Item>
+            </Value>
+          </Item>
+        </Value>
+      </Item>
+      <Item name="Step1">
+        <Value xsi:type="Node" name="Step1">
+          <Item name="StepAcquisitionFilter - PC:Acquisition Filter">
+            <Value xsi:type="Node" name="StepAcquisitionFilter - PC:Acquisition Filter">
+              <Item name="ChunkerActive">
+                <Value xsi:type="xsd:boolean">false</Value>
+              </Item>
+            </Value>
+          </Item>
+        </Value>
+      </Item>
+      <Item name="Step2">
+        <Value xsi:type="Node" name="Step2">
+          <Item name="StepAcquisitionFilter - PC:Acquisition Filter">
+            <Value xsi:type="Node" name="StepAcquisitionFilter - PC:Acquisition Filter">
+              <Item name="ChunkerActive">
+                <Value xsi:type="xsd:boolean">false</Value>
+              </Item>
+            </Value>
+          </Item>
+        </Value>
+      </Item>
+      <Item name="Step3">
+        <Value xsi:type="Node" name="Step3">
+          <Item name="StepAcquisitionFilter - PC:Acquisition Filter">
+            <Value xsi:type="Node" name="StepAcquisitionFilter - PC:Acquisition Filter">
+              <Item name="ChunkerActive">
+                <Value xsi:type="xsd:boolean">true</Value>
+              </Item>
+              <Item name="TotalCycleCount">
+                <Value xsi:type="xsd:long">1</Value>
+              </Item>
+              <Item name="ElapsedCycleCount">
+                <Value xsi:type="xsd:long">1</Value>
+              </Item>
+            </Value>
+          </Item>
+        </Value>
+      </Item>
+      <Item name="Step4">
+        <Value xsi:type="Node" name="Step4">
+          <Item name="StepAcquisitionFilter - PC:Acquisition Filter">
+            <Value xsi:type="Node" name="StepAcquisitionFilter - PC:Acquisition Filter">
+              <Item name="ChunkerActive">
+                <Value xsi:type="xsd:boolean">false</Value>
+              </Item>
+            </Value>
+          </Item>
+        </Value>
+      </Item>
+      <Item name="Step5">
+        <Value xsi:type="Node" name="Step5">
+          <Item name="StepAcquisitionFilter - PC:Acquisition Filter">
+            <Value xsi:type="Node" name="StepAcquisitionFilter - PC:Acquisition Filter">
+              <Item name="ChunkerActive">
+                <Value xsi:type="xsd:boolean">false</Value>
+              </Item>
+            </Value>
+          </Item>
+        </Value>
+      </Item>
+      <Item name="FinishedActions">
+        <Value xsi:type="ArrayOfString" />
+      </Item>
+    </Node>
+  </Section>
+</InstronFile>
