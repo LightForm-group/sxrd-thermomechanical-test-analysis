@@ -5,3 +5,4 @@ pathlib
 tqdm
 jupyter
 pyyaml
+nexusformat
